@@ -33,6 +33,8 @@ public class Product {
 	}
 	public Product setCount(int count) {
 		this.count = count;
+		this.count = count;
+
 		return this;
 	}
 	
